@@ -64,4 +64,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
    npm run dev
 4. If you simply wish to view the hosted website, the link is pasted below!
    ```sh
-   NOTE: Site will be deployed to its own domain soon!
+   https://iamaustinwild.com
