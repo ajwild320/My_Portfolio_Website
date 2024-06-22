@@ -51,16 +51,16 @@ This website was built based upon the work of Adrian Hajdin. The video here and 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-NOTE: Site will be deployed to its own domain soon!
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ajwild320/My_Portfolio_Website
+2. Open you Git Bash Terminal and enter the following command to
+   download the necessary dependencies 
+   ```sh
+   npm install
+3. Run the following command to run the application within your runtime
+   ```sh
+   npm run dev
+4. If you simply wish to view the hosted website, the link is pasted below!
+   ```sh
+   NOTE: Site will be deployed to its own domain soon!
