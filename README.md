@@ -15,6 +15,13 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 I am Austin Wild, a software engineer with a degree in computer science from The University of North Carolina at Charlotte. I have a passion for programming and have worked on various projects ranging from web development to mobile applications. This portfolio is a compilation of some of my work and experiences.
 
+This website was built based upon the work of Adrian Hajdin. The video here and the resources within are how I learned to build this amazing application!
+
+<h3>Youtube video Link Below!<h3/>
+
+[![Video Thumbnail](https://img.youtube.com/vi/FTH6Dn3AyIQ/0.jpg)](https://www.youtube.com/watch?v=FTH6Dn3AyIQ)
+
+
 ## Features
 
 - **Home**: Introduction and a brief overview of who I am.
@@ -45,16 +52,16 @@ I am Austin Wild, a software engineer with a degree in computer science from The
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-NOTE: Site will be deployed to its own domain soon!
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ajwild320/My_Portfolio_Website
+2. Open you Git Bash Terminal and enter the following command to
+   download the necessary dependencies 
+   ```sh
+   npm install
+3. Run the following command to run the application within your runtime
+   ```sh
+   npm run dev
+4. If you simply wish to view the hosted website, the link is pasted below!
+   ```sh
+   https://iamaustinwild.com
