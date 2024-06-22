@@ -16,7 +16,9 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 I am Austin Wild, a software engineer with a degree in computer science from The University of North Carolina at Charlotte. I have a passion for programming and have worked on various projects ranging from web development to mobile applications. This portfolio is a compilation of some of my work and experiences.
 
 This website was built based upon the work of Adrian Hajdin. The video here and the resources within are how I learned to build this amazing application!
-- [Youtube video Link Here!](https://www.youtube.com/watch?v=FTH6Dn3AyIQ)
+- Youtube video Link Below!
+
+  [![Video Thumbnail](https://img.youtube.com/vi/FTH6Dn3AyIQ/0.jpg)](https://www.youtube.com/watch?v=FTH6Dn3AyIQ)
 
 
 ## Features
