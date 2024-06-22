@@ -1,6 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Austin Wild's Personal Portfolio Website
+
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a software engineer.
+
+## Table of Contents
+
+- [Austin Wild's Personal Portfolio Website](#austin-wilds-personal-portfolio-website)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Getting Started](#getting-started)
+
+## Introduction
+
+I am Austin Wild, a software engineer with a degree in computer science from The University of North Carolina at Charlotte. I have a passion for programming and have worked on various projects ranging from web development to mobile applications. This portfolio is a compilation of some of my work and experiences.
+
+## Features
+
+- **Home**: Introduction and a brief overview of who I am.
+- **About**: More details about my background, education, and skills.
+- **Projects**: Showcases the projects I've worked on, including descriptions and links to the live sites or repositories.
+- **Contact**: A form to get in touch with me.
+
+## Technologies Used
+
+- **Frontend**:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - React.js
+  - Next.js
+  - Aceternity UI
+
+- **Backend** (if applicable):
+  - Node.js
+  - Express.js
+
+- **Other Tools**:
+  - Figma (for design template)
+  - Git and GitHub (for version control and project management)
+  - Visual Studio Code (for development process)
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -14,23 +57,4 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+NOTE: Site will be deployed to its own domain soon!
