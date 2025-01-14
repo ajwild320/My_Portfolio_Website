@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="256" height="256">
+  <rect width="128" height="128" fill="#333" />
+  <path d="M64 5.33L15.6 32.66v62.68L64 122.67l48.4-27.33V32.66L64 5.33z" fill="#83CD29" />
+  <path d="M64 14.67l42.93 24.8v49.06L64 113.33l-42.93-24.8V39.47L64 14.67z" fill="#333" />
+  <path d="M50.93 73.07c-1.47-.88-2.8-3.07 0-4.93l16.27-9.4 5.33-3.07c1.47-.88 3.2-.88 4.67 0l5.33 3.07 16.27 9.4c2.8 1.87 1.47 4.07 0 4.93l-21.6 12.4c-1.47.88-3.2.88-4.67 0L50.93 73.07z" fill="#fff" />
+  <text x="50%" y="85%" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#fff" text-anchor="middle">
+    Node.js
+  </text>
+</svg>

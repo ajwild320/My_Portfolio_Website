@@ -25,10 +25,10 @@ const Hero = () => {
 
                 <TextGenerateEffect 
                 className='text-center text-[40px] md:text-5xl lg:text-6xl'
-                words='Transforming Concepts into Seamless User Experiences'/>
+                words='Bridging ideas with technology and building innovative solutions'/>
 
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                    Hi, I&apos;m Austin, a Full Stack Developer based out of North Carolina.
+                    Hi, I&apos;m Austin, a Full Stack Software Engineer based out of North Carolina
                 </p>
 
                 <a href="#about">

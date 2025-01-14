@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="256" height="256">
+  <rect width="128" height="128" fill="#4DB33D"/>
+  <path d="M64 11.2C34.1 11.2 11.2 34.1 11.2 64S34.1 116.8 64 116.8 116.8 93.9 116.8 64 93.9 11.2 64 11.2z" fill="#fff"/>
+  <path d="M64 28.6C82.3 28.6 97.9 46.6 97.9 64s-15.6 35.4-33.9 35.4S30.1 81.4 30.1 64 45.7 28.6 64 28.6z" fill="#4DB33D"/>
+  <text x="50%" y="50%" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#fff" text-anchor="middle" dy=".3em">
+    MongoDB
+  </text>
+</svg>
